@@ -1,8 +1,0 @@
-declare,main
-function,main
-	const,0,1,2,17
-	long,a,0x123456789ABCDEF0
-	locate,0,0,0
-	echo,0123456789012345|
-	locate,0,1,0
-	printhex,a
